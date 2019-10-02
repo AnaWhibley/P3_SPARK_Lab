@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_file>
+    <file_marker column=" 28" line=" 7" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_add.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 15" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_add.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 51" line=" 11" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_add.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_subtract.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 7" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_add.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_subtract.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 13" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_subtract.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 6" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_add.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_subtract.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 7" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_add.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\tests_add.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 59" line=" 13" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_subtract.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 10" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_subtract.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 11" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_subtract.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_add.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 13" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_subtract.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 40" line=" 9" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_subtract.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 210" line=" 12" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_subtract.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 40" line=" 9" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_subtract.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 6" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_add.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_multiply.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 10" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_multiply.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 2" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_multiply.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_subtract.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_subtract.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 9" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_multiply.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 9" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_multiply.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 9" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_multiply.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 3" line=" 10" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_multiply.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 9" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_multiply.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 9" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_multiply.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 7" line=" 9" >
+      <vfs_project>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\default.gpr</vfs_project>
+      <vfs_file>C:\Users\Ana\Desktop\P3\SPARK_Lab-v2\SPARK_Lab\src\pkg_multiply.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

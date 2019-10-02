@@ -1,0 +1,52 @@
+V "GNAT Lib v2019"
+A -x
+A ada
+A -gnatA
+A -g
+A -fstack-check
+A -gnata
+A -gnato
+A -gnat12
+A -gnatwa
+A -gnateE
+A -gnatc
+P GP FX
+
+RN
+RV NO_DIRECT_BOOLEAN_OPERATORS
+RV NO_IMPLEMENTATION_ASPECT_SPECIFICATIONS
+RV NO_IMPLEMENTATION_PRAGMAS
+RV NO_ELABORATION_CODE
+RV SPARK_05
+
+U pkg_subtract%b	pkg_subtract.adb	50590742 OO PK
+W pkg_add%s		pkg_add.adb		pkg_add.ali
+
+U pkg_subtract%s	pkg_subtract.ads	e7d40d71 OO PK
+
+D pkg_add.ads		20190927133248 e54fd805 pkg_add%s
+D pkg_subtract.ads	20191002101932 e7d40d71 pkg_subtract%s
+D pkg_subtract.adb	20191002094452 52c2d236 pkg_subtract%b
+D system.ads		20190518041256 32a08138 system%s
+G a Z
+X 1 pkg_add.ads
+1K9*Pkg_Add 14e12 3|1w6 1r23
+3V13*Add{integer} 3|9s17
+X 2 pkg_subtract.ads
+1K9*Pkg_Subtract 15l5 15e17 3|2b14 12l5 12t17
+3U14*Subtract 4>7 5>7 6<7 3|4b14 10l8 10t16
+4i7 First_Operand{integer} 11r28 12r24 12r70 12r131 12r177 13r29 3|5b7 9r21
+5i7 Second_Operand{integer} 11r42 12r46 12r102 12r153 12r194 12r236 13r45
+. 3|6b7 9r41
+6i7 Result{integer} 11r17 13r20 3|7b7 9m7
+
+QQ SPARKVERSION 2019 (20190517)
+GG EK_DIRECT_CALLS pkg_subtract__subtract 1 pkg_add__add
+GG EK_GLOBALS pkg_subtract__subtract local FALSE E_PROCEDURE FALSE ORIGIN_FLOW proper_proof_in 0 proper_input 0 proper_output 0 refined_proof_in 0 refined_input 0 refined_output 0 calls_proof 0 calls 0 calls_conditional 0 FALSE FALSE TRUE ENTRY_CALLS 0 SUSPENDS_ON 0 UNSYNCH_ACCESSES 0 LOCKS 0
+GG EK_DIRECT_CALLS pkg_subtract 0
+GG EK_GLOBALS pkg_subtract local FALSE E_PACKAGE TRUE ORIGIN_FLOW proper_proof_in 0 proper_input 0 proper_output 0 refined_proof_in 0 refined_input 0 refined_output 0 initializes 0 calls_proof 0 calls 0 calls_conditional 0 local_var 0 FALSE FALSE FALSE ENTRY_CALLS 0 SUSPENDS_ON 0 UNSYNCH_ACCESSES 0 LOCKS 0
+GG EK_FLOW_SCOPE pkg_add__add FALSE FALSE FALSE FALSE TRUE pkg_add VISIBLE_PART
+GG EK_FLOW_SCOPE pkg_subtract TRUE FALSE FALSE FALSE FALSE __standard
+GG EK_FLOW_SCOPE pkg_add TRUE FALSE FALSE FALSE FALSE __standard
+GG EK_FLOW_SCOPE pkg_subtract__subtract FALSE FALSE FALSE FALSE TRUE pkg_subtract VISIBLE_PART
+GG EK_END_MARKER
